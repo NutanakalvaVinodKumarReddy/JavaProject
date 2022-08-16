@@ -24,7 +24,7 @@ class Student{
     String name = "Vinod";
     int age = 30;
 
-    void collegeInfo() {
+   public void collegeInfo() {
         System.out.println("SVTM");
     }
 
