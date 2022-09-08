@@ -9,7 +9,7 @@ Types of Inheritance:
 1. Single (class Parent <- class Child)
 2. Multi (class Parent <- class Child1 <- class Child2)
 3. Hierarchichal (class Parent <- class Child1
-                               <- class Child2)
+                  class Parent <- class Child2)
 4. Multiple (class Parent1  class Paraten2
                           <- class Child2)
  */
