@@ -17,6 +17,11 @@ public class ObjectAndClass {
         System.out.println(obj.age);
         System.out.println(obj.name);
         obj.collegeInfo();
+
+        // Example to illustrate scope of default member
+        Modifiers obj1 = new Modifiers();
+        obj1.add();
+        obj1.sub();
     }
 
 }
