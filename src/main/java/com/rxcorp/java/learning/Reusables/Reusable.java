@@ -1,4 +1,4 @@
-package Reusables;
+package com.rxcorp.java.learning.Reusables;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
