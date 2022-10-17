@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParameterSuite" parallel="methods">
+    <parameter name="varaible1" value="YouTube1"/>
+    <parameter name="varaible2" value="YouTube"/>
+    <test name="TitleNameCheck">
+        <classes>
+            <class name="TestNGWithParameters"/>
+        </classes>
+    </test>
+</suite>
