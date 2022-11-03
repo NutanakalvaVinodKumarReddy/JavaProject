@@ -5,7 +5,7 @@
     <parameter name="varaible2" value="YouTube"/>
     <test name="TitleNameCheck">
         <classes>
-            <class name="TestNGWithParameters"/>
+            <class name="com.rxcorp.java.learning.tests.TestNGWithParameters"/>
         </classes>
     </test>
 </suite>

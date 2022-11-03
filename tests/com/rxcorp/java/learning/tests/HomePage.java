@@ -1,3 +1,5 @@
+package com.rxcorp.java.learning.tests;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.netty.util.Timeout;
 import org.openqa.selenium.By;
